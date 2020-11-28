@@ -1,4 +1,6 @@
 # ServeurTcpCpp
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
 <h1>How to make a Server tcp in c++</h1>
 
 <h2>Toute les commandes suivantes sons a faire sur un terminal(Linux ou Windows)</h2>

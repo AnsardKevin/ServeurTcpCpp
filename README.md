@@ -1,5 +1,5 @@
 # ServeurTcpCpp
-How to make a Server tcp in c++
+<h1>How to make a Server tcp in c++</h1>
 
 Toute les commandes suivantes sons a faire sur un terminal(Linux ou Windows)
 

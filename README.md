@@ -3,6 +3,8 @@
 
 <h1>How to make a Server tcp in c++</h1>
 
+<p>Ce projet à pour but de vous montrez comment faire un serveur c++ sous docker</p>
+
 <h2>Toute les commandes suivantes sons a faire sur un terminal(Linux ou Windows)</h2>
 
 <p>Ligne de commande pour compiler le serveur :</p>

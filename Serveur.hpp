@@ -24,4 +24,4 @@ class Serveur {
         int Connection();
 };
 
-#endif __SERVEUR_HH__
+#endif

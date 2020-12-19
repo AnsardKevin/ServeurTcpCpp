@@ -8,7 +8,7 @@ COPY . /usr/src/dockertest1
 WORKDIR /usr/src/dockertest1
 
 # Use GCC to compile the Test.cpp source file
-RUN g++ Test.cpp -o Serveur 
+RUN g++ Serveur.cpp -o Serveur 
 
 # Run the program output from the previous step
 CMD ["./Serveur"]

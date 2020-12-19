@@ -10,7 +10,7 @@
 <p>Ligne de commande pour compiler le serveur :</p>
 
 ```sh
-g++ TServeur.cpp -o Serveur
+g++ Serveur.cpp -o Serveur
 ```
 <p>Ligne de commande pour exécuter le serveur :</p>
 
